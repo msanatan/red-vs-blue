@@ -4,7 +4,7 @@ Code Repo for my Caribbean Developer Week presentation on Phaser 3
 ## Presentation
 YouTube to see the presentation, demo and Q&A - https://www.youtube.com/watch?v=2w9LEcsnrTQ
 
-(Minimal) Open Document Presenation file is also in the repo.
+(Minimal) Open Document Presentation file is also in the repo.
 
 
 ## Play
@@ -24,7 +24,7 @@ Caribbean Developers - https://www.facebook.com/caribbeandevelopers/, thanks for
 Phaser - http://phaser.io/, for being the awesome framework that it is
 
 
-## Helpful Resources
+## Helpful resources
 
 Phaser's guide to making a game: https://phaser.io/tutorials/making-your-first-phaser-3-game 
 
@@ -32,4 +32,4 @@ Forum for HTML5 game developers: http://www.html5gamedevs.com/
 
 Indie games and game jams: https://itch.io/
 
-Phaser's twitter account: https://twitter.com/phaser_ 
+Phaser's twitter account: <https://twitter.com/phaser_>
